@@ -1,17 +1,17 @@
 ### Hi there 👋
-### This is Tousif Khan!
 
-I am a [google certified python developer](https://www.coursera.org/account/accomplishments/professional-cert/JEY2MYBN8W3M) with experience in writing code to solve problems and automate common system administration tasks, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. Besides I can develop, debug, and implement applications that connect with third-party web services and support front-end developers with application integration. Also have skills in data analysis, automation, and web development using various python frameworks and libraries. Passionate about learning new technologies and solving problems with code.
+I am Tousif Khan a [google certified python developer](https://www.coursera.org/account/accomplishments/professional-cert/JEY2MYBN8W3M) with experience in writing code to solve problems and automate common system administration tasks, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. Besides I can develop, debug, and implement applications that connect with third-party web services and support front-end developers with application integration. Also have skills in data analysis, automation, and web development using various python frameworks and libraries. Passionate about learning new technologies and solving problems with code.
 <br />
 
 - 💻 I love Coding
 - 🔭 I’m currently working on Real Estate Project
 - 🌱 I’m currently learning TensorFlow
+- 💬 Ask me about python, php, javascript, Node, react, docker
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 <br />
 
-## Connect with me:
+## How to reach me:
 
 [<img align="left" alt="TousifKhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gnomicsolutions.com)
 [<img align="left" alt="TousifKhan | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/)
@@ -37,7 +37,10 @@ I am a [google certified python developer](https://www.coursera.org/account/acco
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Wordpress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![Elementor](https://img.shields.io/badge/-Elementor-000000?style=flat&logo=elementor)<br />
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)<br />
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 
 
 <!--
