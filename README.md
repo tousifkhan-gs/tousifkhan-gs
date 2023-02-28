@@ -1,16 +1,33 @@
 ### Hi there 👋
 
 I am Tousif Khan a [google certified python developer](https://www.coursera.org/account/accomplishments/professional-cert/JEY2MYBN8W3M) with experience in writing code to solve problems and automate common system administration tasks, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. Besides I can develop, debug, and implement applications that connect with third-party web services and support front-end developers with application integration. Also have skills in data analysis, automation, and web development using various python frameworks and libraries. Passionate about learning new technologies and solving problems with code.
-<br />
 
 - 💻 I love Coding
 - 🔭 I’m currently working on Real Estate Project
 - 🌱 I’m currently learning TensorFlow
 - 💬 Ask me about python, php, javascript, Node, react, docker
 - 👯 I’m looking to collaborate on opensource and group projects.
+- 📫 How to reach me: [Facebook](https://facebook.com/), [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), [Email](mailTo:tousifkhan.kpk@gmail.com).
 
 <br />
 
+I've also experience in developing and designing websites using wordpress and elementor
+
+🚀 Some of my main wordpress projects:
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ## How to reach me:
 
 [<img align="left" alt="TousifKhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gnomicsolutions.com)
@@ -45,7 +62,7 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 
 
-<!--
+
 **tousifkhan-gs/tousifkhan-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
