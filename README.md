@@ -2,22 +2,42 @@
 ### This is Tousif Khan!
 
 I am a [google certified python developer](https://www.coursera.org/account/accomplishments/professional-cert/JEY2MYBN8W3M) with experience in writing code to solve problems and automate common system administration tasks, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. Besides I can develop, debug, and implement applications that connect with third-party web services and support front-end developers with application integration. Also have skills in data analysis, automation, and web development using various python frameworks and libraries. Passionate about learning new technologies and solving problems with code.
-
+<br />
 
 - 💻 I love Coding
 - 🔭 I’m currently working on Real Estate Project
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on opensource and group projects.
 
+<br />
+
 ## Connect with me:
 
-[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.gnomicsolutions.com]
-[<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />]
+[<img align="left" alt="TousifKhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gnomicsolutions.com)
+[<img align="left" alt="TousifKhan | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/)
+[<img align="left" alt="TousifKhan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com)
+[<img align="left" alt="TousifKhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com)
+[<img align="left" alt="TousifKhan | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/+923329736195)
+[<img align="left" alt="TousifKhan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tousifkhan.kpk@gmail.com)
 
+<br /> 
 
+## Languages
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![MYSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![NodeJs](https://img.shields.io/badge/-Node-000000?style=flat&logo=Node.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)<br />
 
 
 <!--
@@ -34,10 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tousifkhan-gs)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tousifkhan.kpk@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/pakhtoonwalii)
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 -->
