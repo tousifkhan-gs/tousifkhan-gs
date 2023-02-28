@@ -32,6 +32,7 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
 <br />
+
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
