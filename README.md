@@ -31,6 +31,7 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 ![NodeJs](https://img.shields.io/badge/-Node-000000?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
+<br />
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
@@ -58,3 +59,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+⭐️ From [tousifkhan-gs](https://github.com/tousifkhan-gs)
