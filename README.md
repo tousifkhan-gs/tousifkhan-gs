@@ -11,20 +11,20 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 
 <br />
 
+🚀 Some of my python projects:
+- [Image Processing](https://clanbeat.com) - a employee onboarding built with microservie, angularjs, golang, postgres
+- [PDF Processor](https://feed.superwire.io/feeds) - a content marketplace built with angular, firebase
+- [Python Email Sender](https://play.google.com/store/apps/details?id=com.algorithmous.referime) - a event networking app built with ionic, firebase
+- [Python Password Checker](http://dartfrog.cloud/) - a security alerting app built with ionic, mysql, serverless (AWS Lambda)
+- [Twitter Bot](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
+- [Python SMS Sender](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
+- [Hacker News Web Scraper ](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
+- [Flask Portfolio Website](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
+- [Selenium Browser Automation](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
+
 I've also experience in developing and designing websites using wordpress and elementor
 
 🚀 Some of my main wordpress projects:
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
