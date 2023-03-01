@@ -25,6 +25,9 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 I've also experience in developing and designing websites using wordpress and elementor
 
 🚀 Some of my main wordpress projects:
+- [Digital Pick](https://www.digitalpick.co.il/) - a employee onboarding built with microservie, angularjs, golang, postgres
+- [Sleep Junkie](https://www.sleepjunkie.com/) - a employee onboarding built with microservie, angularjs, golang, postgres
+- [Nuna Beauty](https://nunabeauty.id) - a employee onboarding built with microservie, angularjs, golang, postgres
 
 
 <!--
