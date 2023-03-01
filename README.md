@@ -9,9 +9,8 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 - 👯 I’m looking to collaborate on opensource and group projects.
 - 📫 How to reach me: [Facebook](https://facebook.com/), [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), [Email](mailTo:tousifkhan.kpk@gmail.com).
 
-<br />
 
-🚀 Some of my python projects:
+ ### Some of my python projects 🚀:
 - [Image Processing](https://clanbeat.com) - a employee onboarding built with microservie, angularjs, golang, postgres
 - [PDF Processor](https://feed.superwire.io/feeds) - a content marketplace built with angular, firebase
 - [Python Email Sender](https://play.google.com/store/apps/details?id=com.algorithmous.referime) - a event networking app built with ionic, firebase
@@ -22,9 +21,9 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 - [Flask Portfolio Website](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
 - [Selenium Browser Automation](https://www.4stay.com/) - airbnb for university students built with angularjs, nodejs, mongodb
 
-I've also experience in developing and designing websites using wordpress and elementor
+### I've also experience in developing and designing websites using wordpress and elementor
 
-🚀 Some of my main wordpress projects:
+<b>Some of my main wordpress projects 🚀:</b>
 - [Digital Pick](https://www.digitalpick.co.il/) - a employee onboarding built with microservie, angularjs, golang, postgres
 - [Sleep Junkie](https://www.sleepjunkie.com/) - a employee onboarding built with microservie, angularjs, golang, postgres
 - [Nuna Beauty](https://nunabeauty.id) - a employee onboarding built with microservie, angularjs, golang, postgres
