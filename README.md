@@ -11,7 +11,7 @@ I am Tousif Khan a [google certified python developer](https://www.coursera.org/
 
 
  ### Some of my python projects 🚀:
-- [Image Converter](https://github.com/tousifkhan-gs/JPG-to-PNG-Converter) - a python program that converts images from JPG to PNG.
+- [Image Converter](https://github.com/tousifkhan-gs/Convert-JPG-to-PNG-) - a python program that converts images from JPG to PNG.
 - [PDF Processor](https://#) - a python program that creates pdf from text files, applies watermarks.
 - [Python Email Sender](https://#) - a python program that sends emails with html and css formating.
 - [Python Password Checker](https://#) - a special python program that checks that your password is ever hacked or not in some data breaching.
